@@ -1,0 +1,1 @@
+Departure(id=1, type=v1, departureDate=null, postOffice=[])
